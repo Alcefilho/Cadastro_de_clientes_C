@@ -1,7 +1,4 @@
-/*Victor Vieira Ribeiro 201911243
-Pedro Candido da Silva 201906008
-Alcebiades Alves Barbosa Filho 142442
-*/
+
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
@@ -1117,6 +1114,7 @@ else if (ops==4){
     }
     
 }
+// Em contrução
 
 //INICIO TRANSAÇÃO DE CONTAS
 /*
