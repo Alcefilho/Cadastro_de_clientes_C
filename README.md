@@ -1,4 +1,4 @@
-# Cadastro de clientes em linguaguem C
+# Cadastro de clientes em linguagem C
 
 Sistema básico de cadastro de clientes em um banco ficticio ( em construção ). Assim que finalizado pode ser usado em pequenas lojas para cadastro de clientes.
 
