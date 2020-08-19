@@ -1,4 +1,4 @@
-# Cadastro e consulta de  clientes em linguagem C  ( em construção )
+# Cadastro e consulta de  clientes em linguagem C  ( PARALIZADO...sem funcionalidade )
 
 Sistema básico de cadastro de clientes em um banco ficticio. Assim que finalizado pode ser usado em pequenas lojas para cadastro de clientes.
 
